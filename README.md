@@ -1,2 +1,2 @@
 # OIBSIP
-Graphic Design Internship Poster - Task 1
+Graphic Design Internship Project
